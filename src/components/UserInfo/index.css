@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.user-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-image {
+  width: 130px;
+  background-color: #ffffff;
+  margin-top: 30px;
+}
+
+.user-name {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  margin-top: 20px;
+}
+
+.user-role {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
